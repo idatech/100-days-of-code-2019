@@ -30,6 +30,6 @@ The created directory 100 clones the repo and adds a remote called "origin" back
 
 
 
-<p>Thoughts:
+<p>Thoughts: I can push an empty file but I a fail to push a 'written file' to github. Error I get is 'error: failed to push some refs to ...' Will resume tomorrow.
 
 Link to work: I created this new (Repo) just for (github)learning purposes</p>
